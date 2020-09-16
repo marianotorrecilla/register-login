@@ -1,0 +1,19 @@
+*{
+    color: white;
+}
+
+body{
+    background-image: url('../images/beachT.jpg');
+    background-size: 100%;
+}
+
+h5{
+    font-family: 'Barlow Condensed', sans-serif;
+    margin-top: 185px;
+    font-size: 50px;
+}
+
+header{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px;
+}
